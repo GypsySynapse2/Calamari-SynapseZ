@@ -1,0 +1,10 @@
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\bin\Debug\Calamari-L.exe.config
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\bin\Debug\Calamari-L.exe
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\bin\Debug\Calamari-L.pdb
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari-L.csproj.AssemblyReference.cache
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari_L.Form1.resources
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari_L.Properties.Resources.resources
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari-L.csproj.GenerateResource.cache
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari-L.csproj.CoreCompileInputs.cache
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari-L.exe
+C:\Users\kiosk\source\repos\Calamari-L\Calamari-L\obj\Debug\Calamari-L.pdb
